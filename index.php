@@ -13,6 +13,8 @@
     <link rel="stylesheet" href="./dist/css/app.css">
 </head>
 <body>
+
+    <h1>Hello</h1>
     
 
     <!-- VUE JS -->
