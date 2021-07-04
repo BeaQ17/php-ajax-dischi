@@ -1,5 +1,5 @@
 <?php
-
+require __DIR__ . '/database/albums.php';
 ?>
 
 <!DOCTYPE html>
@@ -14,7 +14,13 @@
 </head>
 <body>
 
-    <h1>Hello</h1>
+    <div id="root">
+        <nav><img src="./src/imgs/logo.png" alt="logo img"></nav>
+    </div>
+
+    <div class="container">
+        
+    </div>
     
 
     <!-- VUE JS -->
