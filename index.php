@@ -15,7 +15,7 @@ require __DIR__ . '/database/albums.php';
 <body>
 
     <div id="root">
-        <nav><img src="./src/imgs/logo.png" alt="logo img"></nav>
+        <nav><img src="./dist/imgs/logo.png" alt="logo img"></nav>
     </div>
 
     <div class="container">
